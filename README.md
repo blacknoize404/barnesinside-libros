@@ -13,10 +13,10 @@ Curso con diploma verificable.
 
 | | Libro | Versión actual | Solucionario |
 |---|---|---|---|
-| F1 | [Fundamentos de Java](https://barnesinside.is-a.dev/libros/java-fundamentos/) | [v1.1](https://github.com/blacknoize404/barnesinside-libros/releases/tag/java-fundamentos-v1.1) | Sí |
+| F1 | [Fundamentos de Java](https://barnesinside.is-a.dev/libros/java-fundamentos/) | [v1.2](https://github.com/blacknoize404/barnesinside-libros/releases/tag/java-fundamentos-v1.2) | Sí |
 | F2 | [Orientación a objetos](https://barnesinside.is-a.dev/libros/java-orientacion-a-objetos/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/java-orientacion-a-objetos-v1.0) | Sí |
-| F3 | [Java moderno](https://barnesinside.is-a.dev/libros/java-moderno/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/java-moderno-v1.0) | Sí |
-| F4 | [Java profesional](https://barnesinside.is-a.dev/libros/java-profesional/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/java-profesional-v1.0) | Sí |
+| F3 | [Java moderno](https://barnesinside.is-a.dev/libros/java-moderno/) | [v1.1](https://github.com/blacknoize404/barnesinside-libros/releases/tag/java-moderno-v1.1) | Sí |
+| F4 | [Java profesional](https://barnesinside.is-a.dev/libros/java-profesional/) | [v1.1](https://github.com/blacknoize404/barnesinside-libros/releases/tag/java-profesional-v1.1) | Sí |
 
 ## [Matemática Discreta I](https://barnesinside.is-a.dev/cursos/matematica-discreta/)
 
