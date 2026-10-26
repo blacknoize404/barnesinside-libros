@@ -24,10 +24,10 @@ Guías didácticas de la asignatura en Ingeniería Informática (Universidad de 
 
 | | Libro | Versión actual | Solucionario |
 |---|---|---|---|
-| T1 | [Conjuntos, relaciones y funciones](https://barnesinside.is-a.dev/libros/discreta-conjuntos/) | [v1.4](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-conjuntos-v1.4) | Sí |
-| T2 | [Métodos de conteo](https://barnesinside.is-a.dev/libros/discreta-conteo/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-conteo-v1.0) | Sí |
-| T3 | [Inducción matemática](https://barnesinside.is-a.dev/libros/discreta-induccion/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-induccion-v1.0) | Sí |
-| T4 | [Relaciones de recurrencia](https://barnesinside.is-a.dev/libros/discreta-recurrencias/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-recurrencias-v1.0) | Sí |
+| T1 | [Conjuntos, relaciones y funciones](https://barnesinside.is-a.dev/libros/discreta-conjuntos/) | [v1.6](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-conjuntos-v1.6) | Sí |
+| T2 | [Métodos de conteo](https://barnesinside.is-a.dev/libros/discreta-conteo/) | [v1.1](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-conteo-v1.1) | Sí |
+| T3 | [Inducción matemática](https://barnesinside.is-a.dev/libros/discreta-induccion/) | [v2.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-induccion-v2.0) | Sí |
+| T4 | [Relaciones de recurrencia](https://barnesinside.is-a.dev/libros/discreta-recurrencias/) | [v2.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-recurrencias-v2.0) | Sí |
 | T5 | [Grafos y árboles](https://barnesinside.is-a.dev/libros/discreta-grafos/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-grafos-v1.0) | Sí |
 | T6 | [Autómatas, gramáticas y lenguajes](https://barnesinside.is-a.dev/libros/discreta-automatas/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-automatas-v1.0) | Sí |
 | T7 | [Complejidad de algoritmos](https://barnesinside.is-a.dev/libros/discreta-complejidad/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-complejidad-v1.0) | Sí |
@@ -38,9 +38,9 @@ Compendios para las pruebas de ingreso a la educación superior en Cuba.
 
 | | Libro | Versión actual | Solucionario |
 |---|---|---|---|
-| 01 | [Historia de Cuba](https://barnesinside.is-a.dev/libros/ingreso-historia-de-cuba/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/ingreso-historia-de-cuba-v1.0) | — |
-| 02 | [Español](https://barnesinside.is-a.dev/libros/ingreso-espanol/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/ingreso-espanol-v1.0) | — |
-| 03 | [Matemática](https://barnesinside.is-a.dev/libros/ingreso-matematica/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/ingreso-matematica-v1.0) | — |
+| 01 | [Historia de Cuba](https://barnesinside.is-a.dev/libros/ingreso-historia-de-cuba/) | [v1.1](https://github.com/blacknoize404/barnesinside-libros/releases/tag/ingreso-historia-de-cuba-v1.1) | — |
+| 02 | [Español](https://barnesinside.is-a.dev/libros/ingreso-espanol/) | [v1.1](https://github.com/blacknoize404/barnesinside-libros/releases/tag/ingreso-espanol-v1.1) | — |
+| 03 | [Matemática](https://barnesinside.is-a.dev/libros/ingreso-matematica/) | [v1.2](https://github.com/blacknoize404/barnesinside-libros/releases/tag/ingreso-matematica-v1.2) | — |
 
 Los diplomas de los cursos se verifican en https://barnesinside.is-a.dev/cursos/verificar/.
 
