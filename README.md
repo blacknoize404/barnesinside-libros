@@ -24,8 +24,8 @@ Guías didácticas de la asignatura en Ingeniería Informática (Universidad de 
 
 | | Libro | Versión actual | Solucionario |
 |---|---|---|---|
-| T1 | [Conjuntos, relaciones y funciones](https://barnesinside.is-a.dev/libros/discreta-conjuntos/) | [v1.6](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-conjuntos-v1.6) | Sí |
-| T2 | [Métodos de conteo](https://barnesinside.is-a.dev/libros/discreta-conteo/) | [v1.1](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-conteo-v1.1) | Sí |
+| T1 | [Conjuntos, relaciones y funciones](https://barnesinside.is-a.dev/libros/discreta-conjuntos/) | [v1.7](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-conjuntos-v1.7) | Sí |
+| T2 | [Métodos de conteo](https://barnesinside.is-a.dev/libros/discreta-conteo/) | [v1.3](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-conteo-v1.3) | Sí |
 | T3 | [Inducción matemática](https://barnesinside.is-a.dev/libros/discreta-induccion/) | [v2.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-induccion-v2.0) | Sí |
 | T4 | [Relaciones de recurrencia](https://barnesinside.is-a.dev/libros/discreta-recurrencias/) | [v2.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-recurrencias-v2.0) | Sí |
 | T5 | [Grafos y árboles](https://barnesinside.is-a.dev/libros/discreta-grafos/) | [v1.0](https://github.com/blacknoize404/barnesinside-libros/releases/tag/discreta-grafos-v1.0) | Sí |
